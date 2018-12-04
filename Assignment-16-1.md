@@ -1,3 +1,4 @@
+# Assignment Information
 | Assignment title | Concepts of object-oriented programming |
 | --- | --- |
 | Assessor | Dion van Overdijk |
@@ -18,8 +19,7 @@ You will research principles of object-oriented programming and programming lang
 - analyse and evaluate the sample programs for their application of the principles of object-oriented programming. Your analysis should include the relationships between objects, where, how and why polymorphism, overriding, overloading and interfaces have been used.
 - analyse and evaluate the sample programs for their application of mathematics to. Your analysis should include the representation of graphical elements and how the use of algorithms can benefit the development of a programmed solution
 When evaluating the quality of the programs you should consider the robustness of the code, its maintainability, efficiency, portability and ease of use. 
-
-
+# Criteria
 | Evidence you must produce for this task | A report evaluating computational thinking skills and principles of software design and programming languages.  |
 | --- | --- |
 | Criteria covered by this task: |
