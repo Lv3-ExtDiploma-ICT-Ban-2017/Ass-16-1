@@ -42,7 +42,7 @@ namespace BouncingBall
             y += dy;
             Invalidate();
         }
-       
+
 
         private void timer1_Tick(object sender, EventArgs e)
         {

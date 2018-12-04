@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System;
 
 namespace MultiInterfaces
 {
@@ -22,8 +18,7 @@ namespace MultiInterfaces
         private int InSides;
         public int SideLength;
 
-        public int Sides
-        {
+        public int Sides {
             get { return InSides; }
         }
 
