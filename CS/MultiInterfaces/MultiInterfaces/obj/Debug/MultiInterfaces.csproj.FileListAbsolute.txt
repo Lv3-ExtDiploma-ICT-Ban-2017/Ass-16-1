@@ -1,9 +1,0 @@
-c:\users\dvanoverdijk\documents\visual studio 2015\Projects\MultiInterfaces\MultiInterfaces\bin\Debug\MultiInterfaces.exe.config
-c:\users\dvanoverdijk\documents\visual studio 2015\Projects\MultiInterfaces\MultiInterfaces\bin\Debug\MultiInterfaces.exe
-c:\users\dvanoverdijk\documents\visual studio 2015\Projects\MultiInterfaces\MultiInterfaces\bin\Debug\MultiInterfaces.pdb
-c:\users\dvanoverdijk\documents\visual studio 2015\Projects\MultiInterfaces\MultiInterfaces\obj\Debug\MultiInterfaces.csprojResolveAssemblyReference.cache
-c:\users\dvanoverdijk\documents\visual studio 2015\Projects\MultiInterfaces\MultiInterfaces\obj\Debug\MultiInterfaces.exe
-c:\users\dvanoverdijk\documents\visual studio 2015\Projects\MultiInterfaces\MultiInterfaces\obj\Debug\MultiInterfaces.pdb
-E:\2018 - 2019\Year 1 AND 2\Assignments\Assignment 16-1\MultiInterfaces\MultiInterfaces\bin\Debug\MultiInterfaces.exe.config
-E:\2018 - 2019\Year 1 AND 2\Assignments\Assignment 16-1\MultiInterfaces\MultiInterfaces\obj\Debug\MultiInterfaces.exe
-E:\2018 - 2019\Year 1 AND 2\Assignments\Assignment 16-1\MultiInterfaces\MultiInterfaces\obj\Debug\MultiInterfaces.pdb
