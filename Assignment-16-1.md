@@ -24,9 +24,9 @@ When evaluating the quality of the programs you should consider the robustness o
 | Evidence you must produce for this task | A report evaluating computational thinking skills and principles of software design and programming languages.  |
 | --- | --- |
 | To achieve the criteria you must show that you are able to: | Criterion reference |
-| Evaluate the effectiveness of object-oriented programming with regard to its principles. | 16/A.D1 |
-| Analyse the importance of the principles of object-oriented programming and the use of mathematics in object-oriented programming. | 16/A.M1 |
 | Explain the importance of principles of object-oriented programming and factors affecting the performance, safety and security of object-oriented programs | 16/A.P1 |
 | Explain how mathematics is used when creating object-oriented programs. | 16/A.P2 |
+| Analyse the importance of the principles of object-oriented programming and the use of mathematics in object-oriented programming. | 16/A.M1 |
+| Evaluate the effectiveness of object-oriented programming with regard to its principles. | 16/A.D1 |
 | **Sources of information to support you with this Assignment** | Links and videos provided on the relevant ALO site by your teacher |
 | **Other assessment materials attached to this Assignment Brief** | Sample object-oriented programs covering all concepts in the unit specification |
